@@ -1,0 +1,9 @@
+[package]
+name = "global-allocator"
+version = "0.0.0"
+authors = ["BD103"]
+edition = "2021"
+homepage = "https://bd103.github.io/blog/..."
+repository = "https://github.com/BD103/Allogators"
+license = "MIT"
+publish = false
