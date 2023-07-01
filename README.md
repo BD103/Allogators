@@ -6,4 +6,4 @@ This is the source code for various project I've written in Rust related to low-
 
 ## `global-allocator`
 
-Examples of registering and using the [`GlobalAlloc`](https://doc.rust-lang.org/stable/std/alloc/trait.GlobalAlloc.html) trait. The companion article can be found here: [Intercepting Allocations with the Global Allocator](). Tested using `rustc 1.72.0-nightly (101fa903b 2023-06-04)`.
+Examples of registering and using the [`GlobalAlloc`](https://doc.rust-lang.org/stable/std/alloc/trait.GlobalAlloc.html) trait. The companion article can be found here: [Intercepting Allocations with the Global Allocator](https://bd103.github.io/blog/2023-06-27-global-allocators). Tested using `rustc 1.72.0-nightly (101fa903b 2023-06-04)`.
