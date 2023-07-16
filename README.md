@@ -1,8 +1,6 @@
-# Allogators
+# Blog Examples
 
-> A play on the words "Alligators" and "Allocators."
-
-This is the source code for various project I've written in Rust related to low-level memory management.
+These are companion examples that are published alongside articles I post to [my blog](https://bd103.github.io).
 
 ## `global-allocator`
 
