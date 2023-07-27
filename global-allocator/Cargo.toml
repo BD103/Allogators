@@ -4,6 +4,6 @@ version = "0.0.0"
 authors = ["BD103"]
 edition = "2021"
 homepage = "https://bd103.github.io/blog/2023-06-27-global-allocators"
-repository = "https://github.com/BD103/Allogators"
+repository = "https://github.com/BD103/Blog-Examples"
 license = "MIT"
 publish = false
