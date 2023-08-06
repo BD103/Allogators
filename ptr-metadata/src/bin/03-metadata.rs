@@ -21,9 +21,10 @@ fn main() {
         foo: true,
         bar: [false, true],
     };
+    // `bar` has a length of 2.
     assert_eq!(metadata(wrapper), 2);
 
-    // Thin pointers have no metadata, so it returns a unit type.
+    // Thin pointers have no metadata, so they're metadata is a unit type.
     let thin: u8 = 2;
     assert_eq!(metadata(&thin), ());
 }
